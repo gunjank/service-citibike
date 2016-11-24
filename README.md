@@ -1,4 +1,4 @@
-# service-citibike
+# service-citibike Citi Bike API Wrapper 
 
 Wrapper microservice for Citibike Feed service. 
 
